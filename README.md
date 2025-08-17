@@ -1,5 +1,12 @@
-## Hi there 👋
-
+## Hi, I'm Quan 👋
+{
+ "job" :"Software engineer",
+ "birthday" :"2005-01-24",
+ "country" : "VietNam",
+ "city" : "Ho Chi Minh",
+ "stack" : ["Java", "learning..."]
+ "interest" :["play video-game", "listening to music","badminton"]
+ }
 <!--
 **ntdquan241/ntdquan241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
