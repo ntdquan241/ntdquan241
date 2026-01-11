@@ -2,12 +2,10 @@
 
 ```json
 {
- "job" :"Software engineer",
+ "job" :"Software engineer(student)",
  "birthday" :"2005-01-24",
  "country" : "VietNam",
  "city" : "Ho Chi Minh",
- "stack" : ["Java", "learning..."]
- "interest" :["play video-game", "listening to music","badminton"]
  }
 ```
 
